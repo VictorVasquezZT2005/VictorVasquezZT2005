@@ -4,7 +4,7 @@
 <br/>  
 # Lenguajes 
 <table><tr><td valign="top" width="33%">
-<div align="center">  
+<div align="center" background-color="#ffff">  
 <img src="https://raw.githubusercontent.com/VictorVasquezZT2005/VictorVasquezZT2005-Cloud/main/img/html5.svg" height="200">
 <img src="https://raw.githubusercontent.com/VictorVasquezZT2005/VictorVasquezZT2005-Cloud/main/img/css.svg" height="200">
 <img src="https://raw.githubusercontent.com/VictorVasquezZT2005/VictorVasquezZT2005-Cloud/main/img/js.svg" height="200">
