@@ -10,7 +10,7 @@
 
 
 # Lenguajes 
-<div class="blue" align="center">  
+<div background-color: #0074D9; align="center">  
 <img src="https://raw.githubusercontent.com/VictorVasquezZT2005/VictorVasquezZT2005-Cloud/main/img/html5.svg" height="200">
 <img src="https://raw.githubusercontent.com/VictorVasquezZT2005/VictorVasquezZT2005-Cloud/main/img/css.svg" height="200">
 <img src="https://raw.githubusercontent.com/VictorVasquezZT2005/VictorVasquezZT2005-Cloud/main/img/js.svg" height="200">
