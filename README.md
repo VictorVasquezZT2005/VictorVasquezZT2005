@@ -1,19 +1,4 @@
-
-
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
-  
-
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I like to keep my night shift activated 24 x 7
-  
+### <div align="center">Yo soy Victor Vasquez soy Desarrollador y sera un gusto presentarte mis proyectos 🚀</div>  
 
 <br/>  
 
