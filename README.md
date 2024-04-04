@@ -6,4 +6,8 @@
 ## Lenguajes 
 <table><tr><td valign="top" width="33%">
 
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+<img src="https://raw.githubusercontent.com/VictorVasquezZT2005/VictorVasquezZT2005-Cloud/main/img/html5.svg">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
