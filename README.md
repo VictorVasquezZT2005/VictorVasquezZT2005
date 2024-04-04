@@ -11,4 +11,4 @@
 <img src="https://raw.githubusercontent.com/VictorVasquezZT2005/VictorVasquezZT2005-Cloud/main/img/js.svg">
 <img src="https://raw.githubusercontent.com/VictorVasquezZT2005/VictorVasquezZT2005-Cloud/main/img/node.svg">
 <img src="https://raw.githubusercontent.com/VictorVasquezZT2005/VictorVasquezZT2005-Cloud/main/img/rust.svg">
-</div></td><td valign="top" width="33%">
+</div></td>
